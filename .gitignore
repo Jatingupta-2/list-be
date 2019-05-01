@@ -16,3 +16,5 @@
 !.vscode/extensions.json
 .history/*
 
+/.vscode
+
